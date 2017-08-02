@@ -1,0 +1,30 @@
+
+.navigation {
+  background-color:rgba(255,255,255,0.9);
+  height:auto;
+  text-align:center;
+  position:fixed;
+  left:0;
+  top:0;
+  z-index:999;
+  width:100%;
+}
+
+.navigation ul {
+  padding: 0;
+}
+
+.navigation li {
+  color: #666666;
+  display: inline-block;
+  font-family: 'Georgia', serif;
+  font-size: 16px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  margin: 20px;
+  text-transform: uppercase;
+}
+
+h2 {
+  color:#c6ebf2;
+}
