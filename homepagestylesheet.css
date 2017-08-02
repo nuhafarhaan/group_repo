@@ -9,7 +9,7 @@ body {
 p {
   background-color:
 }
-#grad1 {
+/*#grad1 {
     height: 200px;
     background: red;
     background: -webkit-linear-gradient(red, blue);
@@ -17,7 +17,7 @@ p {
     background: -moz-linear-gradient(red, blue);
     background: linear-gradient(red, blue);
 }
-<div id="grad1"></div>
+<div id="grad1"></div>*/
 <div class="title"> { background-color: #D3D3D3 (light grey)
 color: #00FFFF (aqua)
   }
