@@ -5,10 +5,12 @@
 p {
   font-size:16px;
   color:rgb(48, 53, 81);
+  background-color:white;
 }
 
 h4 {
   colour:rgb(39, 43, 66);
+  font-weight:bold;
 }
 
 body {
