@@ -1,0 +1,15 @@
+h1 {
+  color: #5B026B;
+  font-family: serif; Arial;
+}
+body {
+
+
+}
+
+.backgroundImage{
+  background-image: url("bluesky.jpg");
+  height: 700px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
