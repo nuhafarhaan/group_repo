@@ -29,27 +29,37 @@ h2 {
   color:#c6ebf2;
   text-align:center;
   color:#c6ebf2;
+  height:100%;
+  width:100%;
 }
 
 h3 {
   text-align:center;
   color:#c6ebf2;
+  height:100%;
+  width:100%;
 }
 
 p {
   text-align:center;
   background-color:white;
   color:#c6ebf2;
+  height:100%;
+  width:100%;
 }
 
 h1 {
   text-align:center
   color:#c6ebf2;
+  height:100%;
+  width:100%;
 }
 
 h4 {
   text-align:center;
   color:#c6ebf2;
+  height:100%;
+  width:100%;
 }
 
 * {
