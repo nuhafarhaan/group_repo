@@ -28,36 +28,44 @@
 h2 {
   color:#c6ebf2;
   text-align:center;
+  color:#c6ebf2;
 }
 
 h3 {
   text-align:center;
+  color:#c6ebf2;
 }
 
 p {
   text-align:center;
   background-color:white;
+  color:#c6ebf2;
 }
 
 h1 {
   text-align:center
+  color:#c6ebf2;
 }
 
 h4 {
   text-align:center;
+  color:#c6ebf2;
 }
 
 * {
   text-align:center;
+  color:#c6ebf2;
 }
 
 ul {
   text-align:center;
+  color:#c6ebf2;
 }
 
 body {
   background-image:url(https://c1.staticflickr.com/5/4330/36266824465_1a2b3bdd99_k.jpg);
   background-color:white;
+  color:#c6ebf2;
 }
 
 /* The side navigation menu */
@@ -79,9 +87,9 @@ body {
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 25px;
-    color: #818181;
     display: block;
     transition: 0.3s
+    color:#c6ebf2;
 }
 
 /* When you mouse over the navigation links, change their color */
@@ -96,6 +104,7 @@ body {
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
+    color:#c6ebf2;
 }
 
 /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
@@ -108,4 +117,33 @@ body {
 @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
+}
+
+
+.w3-sidebar {
+  background-color:rgba(255,255,255,0.9);
+  height:auto;
+  text-align:center;
+  position:fixed;
+  left:0;
+  top:0;
+  z-index:999;
+  width:100%;
+  color:#c6ebf2;
+}
+
+.w3-sidebar ul {
+  padding: 0;
+  color:#c6ebf2;
+}
+
+.w3-sidebar li {
+  color: #c6ebf2;
+  display: inline-block;
+  font-family: 'Georgia', serif;
+  font-size: 16px;
+  font-weight: 100;
+  letter-spacing: 2px;
+  margin: 20px;
+  text-transform: uppercase;
 }
